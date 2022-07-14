@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BaseProject</string>
+
+    <string name="try_again">Giriş Yapmayı Yeniden Deneyin</string>
+    <string name="no_comment">Yorum Bulunmamaktadır</string>
+    <string name="check_internet">Bağlantınızı Kontrol Edin</string>
+    <string name="start">Start</string>
+    <string name="main_nav_profile">Me</string>
+</resources>
